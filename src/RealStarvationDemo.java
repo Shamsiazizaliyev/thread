@@ -46,6 +46,7 @@ public class RealStarvationDemo {
         highPriority.start();
         lowPriority.start();
 
+        // kohne nesil os ler ucundur bu 
 
     }
 }
